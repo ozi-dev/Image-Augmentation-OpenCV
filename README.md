@@ -2,7 +2,7 @@
 # Image Data Augmentation using OpenCV
 
 This code is designed to perform image data augmentation on a folder of images using OpenCV library at **Google Colab**. This technique is used to increase the size of the available dataset by creating multiple new and distinct images from the existing ones. The code can be used for any image dataset, just make sure to specify the correct path to the input folder and output folder.
-/
+
 ## Prerequisites
 
 - Google Colab account
