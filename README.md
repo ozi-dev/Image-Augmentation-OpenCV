@@ -15,7 +15,7 @@ This code is designed to perform image data augmentation on a folder of images u
 1. Clone this repository by running the following command in your terminal:
 
 ```
-git clone https://github.com/your_username/art-augmentation.git
+git clone https://github.com/your_username/Image-Augmentation.git
 ```
 
 2. Install required packages using pip:
